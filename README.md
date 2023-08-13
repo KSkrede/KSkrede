@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 <h3 align="center">Industrial economics and technology management student at NTNU</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kskrede" alt="kskrede" /></a> </p>
-
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Infrastructure, React and Java/Python**
